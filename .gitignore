@@ -2,3 +2,5 @@
 api_keys.py
 __pycache__/
 *.pyc
+config.py
+config2.py
